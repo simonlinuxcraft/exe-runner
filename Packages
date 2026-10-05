@@ -1,0 +1,54 @@
+Package: exe-runner
+Version: 0.1.1
+Architecture: amd64
+Maintainer: simonlinuxcraft <245174420+simonlinuxcraft@users.noreply.github.com>
+Installed-Size: 15385
+Depends: libc6 (>= 2.39), 7zip, python3, cabextract, unzip, wget, libglib2.0-bin, desktop-file-utils, udisks2, libwebkit2gtk-4.1-0, libgtk-3-0
+Recommends: podman, freerdp3-x11
+Conflicts: ferry
+Replaces: ferry
+Filename: ./exe-runner_0.1.1_amd64.deb
+Size: 4358866
+MD5sum: bcfa1ae438104a0e50e1bb968d652905
+SHA1: 1dafe0e419f399e1798073363dc62d55d074756c
+SHA256: 72c880bf5208f705602dad634d82b442ca0b7ec48dd94bc36ff494258b4a5d3e
+Priority: optional
+Description: Run Windows programs and games on Linux
+ Exe Runner reads a Windows program before it runs and picks the way: GE-Proton in a prefix of its own with the runtimes the program needs, a Windows VM for programs with drivers, or a plain explanation for games whose anti-cheat locks Linux out. Installed programs and games show up in a library and in the app menu.
+
+Package: exe-runner
+Version: 0.1.2
+Architecture: amd64
+Maintainer: simonlinuxcraft <245174420+simonlinuxcraft@users.noreply.github.com>
+Installed-Size: 15463
+Depends: libc6 (>= 2.39), 7zip, python3, cabextract, unzip, wget, libglib2.0-bin, desktop-file-utils, udisks2, libwebkit2gtk-4.1-0, libgtk-3-0
+Recommends: podman, freerdp3-x11
+Conflicts: ferry
+Replaces: ferry
+Filename: ./exe-runner_0.1.2_amd64.deb
+Size: 4361772
+MD5sum: 4111ce55b3841cc6f51e9c8c98aca627
+SHA1: c920e473452a86e1d63cafdb7317086e8653d4c8
+SHA256: 89cc2d55d37d5e625e627901f61f1e75107bd4de15ad5751ab4c0d99c3745131
+Priority: optional
+Description: Run Windows programs and games on Linux
+ Exe Runner reads a Windows program before it runs and picks the way: GE-Proton in a prefix of its own with the runtimes the program needs, a Windows VM for programs with drivers, or a plain explanation for games whose anti-cheat locks Linux out. Installed programs and games show up in a library and in the app menu.
+
+Package: exe-runner
+Version: 0.1.3
+Architecture: amd64
+Maintainer: simonlinuxcraft <245174420+simonlinuxcraft@users.noreply.github.com>
+Installed-Size: 16137
+Depends: libc6 (>= 2.39), 7zip, python3, cabextract, unzip, wget, libglib2.0-bin, desktop-file-utils, udisks2, bubblewrap, xdg-utils, libwebkit2gtk-4.1-0, libgtk-3-0
+Recommends: podman, freerdp3-x11, gamemode
+Conflicts: ferry
+Replaces: ferry
+Filename: ./exe-runner_0.1.3_amd64.deb
+Size: 4562024
+MD5sum: 509e6c9f4f3278ed7253c38ebda94c3d
+SHA1: 0b1281ed8d8f23b812144d6679a10e09b351c22c
+SHA256: 8895c64a55f5a959729461db3af0f1f8398c331de945a42616c6fde9afa62175
+Priority: optional
+Description: Run Windows programs and games on Linux
+ Exe Runner reads a Windows program before it runs and picks the way: GE-Proton in a prefix of its own with the runtimes the program needs, a Windows VM for programs with drivers, or a plain explanation for games whose anti-cheat locks Linux out. Installed programs and games show up in a library and in the app menu.
+
